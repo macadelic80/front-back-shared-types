@@ -1,0 +1,14 @@
+{
+  "name": "types",
+  "version": "1.0.0",
+  "type": "module",
+  "module": "esnext",
+  "target": "module",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@types/http-server": "^0.12.4",
+    "http": "^0.0.1-security"
+  }
+}
